@@ -73,7 +73,7 @@ Great skills of working in flexible Agile environment, familiar to Scrum, Kanban
 #### SmartDev `(State-owned SMARTLINK SA)` `Jan 2015 - Mar 2016`
 - [x] I led a frontend team in a project to create reusable web components used across the entire company.
 - [x] I developed internal mobile E-Wallet app with Ionic Framework(AngularJS 1.3) for Smartlink SA (PCS Wallet)
-- [x] I developed B2B application (directory - recommendation app) with NodeJS + MongoDB + JenKin (Loopback 3) + Crawling data with Beautiful Soup and Scrapy
+- [x] I developed B2B application (directory - recommendation app) with NodeJS (Loopback 3) + MongoDB + JenKin + Crawling data with Beautiful Soup and Scrapy
 
 ### **Graphic Designer and Frontend Developer**
 #### Axon Active Vietnam `April 2013 - Jan 2015`
