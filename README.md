@@ -22,7 +22,7 @@
 	* Git, SVN, Jenkins
 	
 * #### Back End
-	* Node.js, Express, MongoDB, RedisDB
+	* Node.js, Express, MongoDB, RedisDB, MYSQL, PostgreSQL
 	* AWS, EC2, S3, API Gateway
 	* Elixir, Typescript, Golang, PHP, RESTful, Web service
 	
