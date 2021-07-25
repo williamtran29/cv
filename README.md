@@ -46,8 +46,19 @@ Great skills of working in flexible Agile environment, familiar to Scrum, Kanban
 
 ## Experience
 
+### **Consultant - GreenWeb, Remote**
+#### GreenWeb `May 2020 - Present`
+- [x] Responsible for JCL App; https://jeclic-local.fr/
+- [x] Manage the server for all websites of GreenWeb + Digital Forest https://digitalforest.fr/
+- [x] Build project structure and architecture design for multiple web/mobile projects
+
+### **Frontend Developer, Remote**
+#### PositiveThinking `May 2020 - Present`
+- [x] Responsible for legacy Cascade App; https://www.cascade.app/
+- [x] I developed new features on a web application coded in EmberJS, PHP 
+
 ### **Software Engineer, Remote**
-#### Sendhelper `Aug 2018 - Present`
+#### Sendhelper https://www.sendhelper.com/ `Aug 2018 - Present`
 - [x] As a major role in developing React & Redux to delivery high performed features and great experience for production;
 - [x] Participate in the front-end architecture work in a new generation app developed by React Native, Redux, React Hook, CodePush, Braintree 
 - [x] Responsible on production app performance. resolved significant webpage optimisation
