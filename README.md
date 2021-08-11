@@ -46,12 +46,6 @@ Great skills of working in flexible Agile environment, familiar to Scrum, Kanban
 
 ## Experience
 
-### **Consultant - GreenWeb, Remote**
-#### GreenWeb `May 2020 - Present`
-- [x] Responsible for JCL App; https://jeclic-local.fr/
-- [x] Manage the server for all websites of GreenWeb + Digital Forest https://digitalforest.fr/
-- [x] Build project structure and architecture design for multiple web/mobile projects
-
 ### **Software Engineer, Remote**
 #### Sendhelper https://www.sendhelper.com/ `Aug 2018 - Present`
 - [x] As a major role in developing React & Redux to delivery high performed features and great experience for production;
